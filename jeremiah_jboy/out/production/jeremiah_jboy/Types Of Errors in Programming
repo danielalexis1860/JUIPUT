@@ -1,0 +1,17 @@
+Types Of Errors in programming include:
+1). Logical Errors:
+       This is error due to giving the code another function differently from what you wanted it to do.
+   The code runs and gives output but not the output you wanted it to give.
+   EXAMPLE:
+   You want to add
+   X + Y
+   and you give or assign X as 30 and Y as 20, which will give 50  because 30 + 20 is equal to 50.
+   but you now do
+   X * Y when you run it will give you 600 Which is 30 *20
+
+2).  Semantic Errors:
+        This is due to wrong spelling etc..
+
+3).  Syntax Errors:
+        This is due to wrong use in language of program.
+
